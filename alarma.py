@@ -1,3 +1,4 @@
+#Armando Figueroa Martinez 
 import time
 import winsound
 class alarma:
